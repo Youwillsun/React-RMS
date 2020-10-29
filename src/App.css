@@ -1,0 +1,7 @@
+html,
+body,
+#root,
+.ant-layout {
+  width: 100vw;
+  height: 93vh;
+}

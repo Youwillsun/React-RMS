@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logoImg {
+    width: 60px;
+    height: 60px;
+}
+
+.logoText {
+    color: #fff;
+}
+
+.popMenu {
+    color: #fff;
+    cursor: pointer;
+}
